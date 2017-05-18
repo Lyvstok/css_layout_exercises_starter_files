@@ -1,0 +1,42 @@
+.container {
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	font-size: 0;
+}
+.green {
+	background-color: green;
+	height: 200px;
+	display: inline-block;
+	width: 50%;
+	border: solid black 1px;
+}
+.blue {
+	background-color: blue;
+	height: 200px;
+	display: inline-block;
+	width: 50%;
+	border: solid black 1px;
+}
+.grey {
+	background-color: grey;
+	height: 300px;
+	display: inline-block;
+	width: 33.333333%;
+	border: solid black 1px;
+}
+.black {
+	background-color: black;
+	height: 300px;
+	display: inline-block;
+	width: 33.333333%;
+	border: solid black 1px;
+}
+.orange {
+	background-color: orange;
+	height: 300px;
+	display: inline-block;
+	width: 33.333333%;
+	border: solid black 1px;
+}
